@@ -1,4 +1,4 @@
-# SecureFileTool 🔐
+# SecureFileTool 
 
 SecureFileTool is a set of simple tools developed in Python to perform basic operations related to file security.
 
@@ -12,7 +12,7 @@ It enables you to:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1.  **Run the :** repository
 
@@ -30,7 +30,7 @@ It enables you to:
 
 ---
 
-## 🛠 Features
+## Features
 
 The following scripts are available:
 
@@ -45,7 +45,7 @@ The following scripts are available:
 
 ---
 
-## 📂 Folder organization
+##  Folder organization
 
 text
 SecureFileTool/
